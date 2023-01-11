@@ -1,6 +1,6 @@
-# Responsive-Navbar
+# Responsive Navbar
 
-This is a responsive navbar, with hamburger menu at mobile sizes.
+This is a responsive navbar, with a hamburger menu at mobile sizes.
 
 Techniques used:
 
